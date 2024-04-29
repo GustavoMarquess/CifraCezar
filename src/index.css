@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.silkscreen {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: oblique;
+}
+
+button{
+  color: aliceblue;
+}
