@@ -11,6 +11,8 @@ Professor: Fábio
 
 ![Logo](<img src="/assets/img/cifra.png">)
 
+ <img src="src/assets/img/cifra.png" width="200" />
+
 
 ## Autore
 
