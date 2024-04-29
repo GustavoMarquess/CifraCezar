@@ -9,8 +9,3 @@
   },
   "include": ["vite.config.ts"]
 }
-{
-  "compilerOptions": {
-      "noUnusedLocals": false
-  }
-}
