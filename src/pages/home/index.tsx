@@ -1,7 +1,6 @@
 import { Button, Input, Textarea } from "@nextui-org/react";
 import {
   EnvelopeSimple,
-  Heart,
   Key,
   LockKey,
   LockKeyOpen,
