@@ -9,7 +9,7 @@ Professor: Fábio
 
 
 
-![Logo](https://drive.google.com/file/d/1vRNGoVwqk1D6c0FFk-mDa7kzRnqdSsJz/view?usp=sharing)
+![Logo](<img src="/assets/img/cifra.png">)
 
 
 ## Autore
